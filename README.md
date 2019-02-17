@@ -1,2 +1,2 @@
 ## Exercism Go Track
-BEW2.5
+BEW-2.5
